@@ -1,7 +1,9 @@
-# todos-api
-A simple CRUD API in node and express.
+# SQLite todos-api
+A simple CRUD API in node and express that was extended to use a database using SQLite.
+That means all the API endpoints need to do something on the database not the current JS array of todos. 
+API endpoints are: GET, PUT, POST and DELETE
 
-## Check out the project overview, goals and functions below :
+## Check out the project overview, goals and functions below for creating a todos-api using nodejs and express :
 (https://github.com/nina-mir/CSC317-assignments/tree/main/todos-API)
 
 ## How to tweak this project for your own uses
