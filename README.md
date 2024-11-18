@@ -18,3 +18,5 @@ Node Resources https://developer.mozilla.org/en-US/docs/Learn/Server-side/Expres
 Express Resources https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Tutorial_local_library_website
 
 Express Resources 2 https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/skeleton_website
+
+SQLite Resources https://www.sqlitetutorial.net/sqlite-nodejs/create-tables/
