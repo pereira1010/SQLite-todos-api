@@ -1,0 +1,20 @@
+# Node modules folder
+node_modules/
+
+# Lock files
+package-lock.json
+yarn.lock
+
+# Environment variables
+.env
+
+# Log files
+*.log
+logs/
+
+# macOS system files
+.DS_Store
+
+# Editor config files
+.vscode/
+.idea/
